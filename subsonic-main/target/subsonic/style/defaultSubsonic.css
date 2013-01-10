@@ -1,0 +1,26 @@
+@import "default.css";
+@import "niceforms-default2.css";
+@import "playericonsSilver.css";
+@import "jquery.mCustomScrollbarBlack.css";
+/*
+ * CSS styleshet for default theme.
+ *
+ * Note that attributes that are typically changed by theme authors are
+ * placed at the top.
+  *
+ * Author: Sindre Mehus
+ */
+/* The primary background color (light blue). */
+
+
+.ruleTableCellDB {
+    border: 1px solid black;
+    white-space: nowrap;
+    font-size: 7pt;
+    margin: 1px;
+    padding: 1px;
+}
+
+img.starSong {
+    margin-right: 1px;
+}
